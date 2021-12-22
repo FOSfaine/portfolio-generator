@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/FOSfaine/portfolio-generator#readme",
   "dependencies": {
+    "eslint": "^8.5.0",
     "inquirer": "^8.2.0"
   }
 }
